@@ -1,4 +1,3 @@
-# Foodie_Bot
 Here is a well-structured and detailed README content for your GitHub repository, describing your FoodieBot project:
 
 ***
@@ -78,6 +77,8 @@ FoodieBot is an intelligent conversational agent built for a fast-food restauran
    ```
 3. Set the `GROQ_API_KEY` environment variable to your Groq access key.
 
+***
+
 ## Project Architecture
 
 ```
@@ -94,7 +95,14 @@ User Input --> Conversational AI --> Interest Score -->
 ## Contribution
 
 Contributions, bug fixes, and enhancements are welcome! Please open issues or submit pull requests for improvements or feature requests.
+
 ***
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
 ***
 
 Experience seamless, intelligent food recommendations powered by cutting-edge AI and data science with **FoodieBot**!  
