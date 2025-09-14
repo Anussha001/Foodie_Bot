@@ -94,19 +94,7 @@ User Input --> Conversational AI --> Interest Score -->
 ## Contribution
 
 Contributions, bug fixes, and enhancements are welcome! Please open issues or submit pull requests for improvements or feature requests.
-
 ***
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-***
-
-## Contact
-
-For queries or support, please contact [anusshay01@gmail.com].
-
 ***
 
 Experience seamless, intelligent food recommendations powered by cutting-edge AI and data science with **FoodieBot**!  
