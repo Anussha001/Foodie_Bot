@@ -78,23 +78,6 @@ FoodieBot is an intelligent conversational agent built for a fast-food restauran
    ```
 3. Set the `GROQ_API_KEY` environment variable to your Groq access key.
 
-### Running the Project
-- **Generate the product catalog and setup the database:**
-  ```bash
-  python phase1_product_generation.py
-  ```
-- **Start the chatbot CLI:**
-  ```bash
-  python phase2_conversational_ai.py
-  ```
-- **Run Streamlit web interface:**
-  ```bash
-  streamlit run phase2_conversational_ai.py
-  ```
-  Access the UI at `http://localhost:8501`
-
-***
-
 ## Project Architecture
 
 ```
